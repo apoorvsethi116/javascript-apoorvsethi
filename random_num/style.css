@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana,sans-serif;
+    text-align: center;
+    background-color: rgb(205, 181, 181);
+}
+#btn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 7px;
+    background-color: rgb(193, 102, 82);
+}
+.label{
+    font-size: 3em;
+}
+.cont{
+    padding-top: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    display: block;
+    color: rgb(216, 71, 71);
+    box-shadow: 2px 2px 2px 5px #db6b6b80;
+    
+}
